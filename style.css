@@ -1,0 +1,30 @@
+h1{
+    color: green;
+    font-family: sans-serif;
+}
+h2{
+    color: purple;
+}
+p{
+    color: coral;
+    font-family: fantasy;
+}
+h1{
+    font-family: Arial, sans-serif;
+}
+ul{
+    list-style-type: circle;
+}
+ol{
+    list-style-type: upper-roman;
+}
+ul{
+    list-style-image: url(Images/pointer-icon.png);
+}
+#menu-bar a{
+    text-decoration: none;
+    background-color: aqua;
+}
+#menu-bar a:hover{
+    color: aquamarine;
+}
