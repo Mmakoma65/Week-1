@@ -14,8 +14,8 @@ This repository contains code and documentation for tasks and exercises complete
 1. Clone the repository:  
    git clone https://github.com/Mmakoma65/Week-1.git
 
-Contact
-created by Mmakoma@65
+## Contact
+1. created by Mmakoma@65
 
 
 
